@@ -2,7 +2,7 @@
 
 ## Why are you a good fit for this project?
 
-I've built transaction monitoring dashboards and multi-module operations platforms that handle high-volume data pipelines — same patterns as order management at scale. Built a working demo for your project: {VERCEL_URL}
+I've built transaction monitoring dashboards and multi-module operations platforms that handle high-volume data pipelines — same patterns as order management at scale. Built a working demo for your project: https://order-flow-engine.vercel.app
 
 ## Describe your experience with database optimization
 

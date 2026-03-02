@@ -1,4 +1,4 @@
-Scaling an order management system usually comes down to one slow query or a connection pool bottleneck before it's anything architectural. I built a working demo of what the backend ops could look like: {VERCEL_URL}
+Scaling an order management system usually comes down to one slow query or a connection pool bottleneck before it's anything architectural. I built a working demo of what the backend ops could look like: https://order-flow-engine.vercel.app
 
 I've built transaction monitoring systems (PayGuard — real-time flagging across high-volume pipelines) and multi-module ops platforms (Fleet SaaS — 6 modules with relational data). Both handle the load and complexity you're describing.
 
